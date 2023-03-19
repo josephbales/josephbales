@@ -1,4 +1,6 @@
-### Hi there 👋
+# Joseph Bales :vulcan_salute:
+
+Hello, I am a full stack developer living in the Nashville, TN metro area.
 
 <!--
 **josephbales/josephbales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
